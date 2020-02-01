@@ -4,9 +4,8 @@ title: "使用Let's Encrypt 來申請憑證並且建立憑證鍊 "
 date: 2020-01-15 11:00:00
 image: '![cover_photo](https://raw.githubusercontent.com/henry510859/TWDC_blog_photo/master/certificate%20chain/cover_photo.jpg)'
 description:
-category: 'Certificate'
+category: 'blog'
 tags:
-- Let's Encrypt
 - certificate
 introduction:
 ---

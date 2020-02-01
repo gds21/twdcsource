@@ -6,7 +6,7 @@ image: 'https://raw.githubusercontent.com/henry510859/TWDC_blog_photo/master/使
 description:
 category: 'blog'
 tags:
-- blog
+- education
 twitter_text:
 introduction:
 ---
